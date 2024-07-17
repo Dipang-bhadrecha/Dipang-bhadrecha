@@ -12,22 +12,29 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 - 📫 How to reach me dipaang.bhadrecha@gmail.com
 
 ## Technical Skills
-<!--
-<b>frontend Skills</b> </br> 
-<img src="https://skillicons.dev/icons?i=html,css,react,js" alt="Frontend Skills" /> </br>
 
-<b>Backend Skills</b> </br>
-<img src="https://skillicons.dev/icons?i=aws,nodejs,express,nestjs,mongodb,mysql,redis" alt="Backend Skills" />
-
-<b>Tools and Platforms</b> </br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,vercel,linux" alt="Tools and Platforms" />
--->
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,js,aws,nodejs,express,nestjs,mongodb,mysql,redis,git,github,gitlab,postman,vscode,vercel,linux,c,cpp,figma,postman,ts,vscode" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/> HTML
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/> CSS
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> React
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/> JavaScript
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> AWS
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> Node.js
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/> Express
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/> NestJS
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/> MongoDB
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/> MySQL
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/> Redis
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> Git
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/> GitHub
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" height="40"/> GitLab
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/> Postman
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/> VS Code
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/> Vercel
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/> Linux
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/> Figma
 </p>
+
 
 ## Projects
 

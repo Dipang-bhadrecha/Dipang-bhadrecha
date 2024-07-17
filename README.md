@@ -25,7 +25,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,c,cpp,css,express,figma,html,js,linux,mongodb,mysql,nestjs,nodejs,postman,react,redis,ts,vscode,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,js,aws,nodejs,express,nestjs,mongodb,mysql,redis,git,github,gitlab,postman,vscode,vercel,linux,c,cpp,figma,postman,ts,vscode" />
   </a>
 </p>
 

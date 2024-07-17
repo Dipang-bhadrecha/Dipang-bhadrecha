@@ -68,9 +68,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/><br/>Linux
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/><br/>Figma
-    </td>
   </tr>
 </table>
 

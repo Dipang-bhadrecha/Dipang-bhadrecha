@@ -10,8 +10,11 @@ I am a passionate developer with expertise in Software engineer. I love working 
 
 ## Technical Skills
 
-<br>
-<b>frontend Skills</b></br> <img src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
+<b>frontend Skills</b> </br> 
+<img src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
+<b>Backend Skills</b> </br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"/>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,c,cpp,css,express,figma,html,js,linux,mongodb,mysql,nestjs,nodejs,postman,react,redis,ts,vscode,vercel" />

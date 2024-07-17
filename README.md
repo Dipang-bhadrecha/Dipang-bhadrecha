@@ -37,6 +37,7 @@ I am a passionate developer with expertise in Software engineer. I love working 
   
   <b>How to Solve</b></br>
   To combat this fraudulent practice, we propose a secure network system. When employees join your team, they submit their ID (such as Aadhaar card in India) through this platform. This triggers a notification to all other businesses that offered them a signing bonus, informing them of the employees' new employment status. These businesses can then contact you, the new employer, to reclaim their funds. If the employee group does not join anyone, the system ensures they must clear all outstanding signing bonuses before officially joining a new team.
+
   <b>Connect with govvernment and take a leverage</b></br>
   Additionally, leveraging an existing government system that tracks Aadhaar details of crew members going fishing, we can integrate this API into our network. This allows us to cross-reference and verify employee status with accurate and official government records, making it easier to identify and prevent fraudulent activities. This network fosters transparency and protects both business owners and legitimate job seekers from fraudulent activities.
   

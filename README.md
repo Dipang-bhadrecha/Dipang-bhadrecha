@@ -14,7 +14,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 ## Technical Skills
 
 <b>frontend Skills</b> </br> 
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="Frontend Skills" /> </br>
+<img src="https://skillicons.dev/icons?i=js,html,css,reactjs" alt="Frontend Skills" /> </br>
 
 <b>Backend Skills</b> </br>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline="/>

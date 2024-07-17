@@ -48,7 +48,7 @@ I am a passionate developer with expertise in Software engineer. I love working 
 - [Project 2](link-to-project): A brief description of what this project is about.
 - [Project 3](link-to-project): A brief description of what this project is about.
 
-## Contact
+## Connect with me:
 
 - [LinkedIn](link-to-your-linkedin)
 - [Twitter](link-to-your-twitter)

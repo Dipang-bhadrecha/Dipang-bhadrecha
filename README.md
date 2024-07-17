@@ -49,12 +49,10 @@ I am a passionate developer with expertise in Software engineer. I love working 
 ## Contact With Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dipang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-kumar-904254195" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter-profile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/dipang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipang_linkedin" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipang_leetcode" height="30" width="40" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
+<a href="https://auth.geeksforgeeks.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipang_gfg" height="30" width="40" />
+ </a>
 </p>
 

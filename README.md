@@ -42,11 +42,11 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/><br/>MongoDB
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br/>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/><br/>Redis
     </td>

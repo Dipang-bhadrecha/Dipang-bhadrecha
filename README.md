@@ -24,8 +24,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/><br/>React
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/><br/>JavaScript
     </td>

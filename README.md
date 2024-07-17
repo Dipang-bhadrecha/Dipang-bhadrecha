@@ -11,7 +11,7 @@ I am a passionate developer with expertise in Software engineer. I love working 
 ## Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,c,cpp,css,express,figma,html,js,linux,mongodb,mysql,nestjs,nodejs,postman,react,redis,ts,vscode,vercel" />
   </a>
 </p>
 

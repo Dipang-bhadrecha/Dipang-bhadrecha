@@ -46,7 +46,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br/>MySQL
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align="center">
       <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/><br/>Redis
     </td>

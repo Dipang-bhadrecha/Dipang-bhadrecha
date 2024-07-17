@@ -66,9 +66,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/><br/>VS Code
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/><br/>Vercel
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/><br/>Linux
     </td>
     <td align="center">

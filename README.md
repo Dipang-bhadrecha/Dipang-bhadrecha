@@ -8,7 +8,7 @@
 
 To me, being an engineer means crafting something beautiful and impactful. I’m a passionate developer with expertise in Software Engineering, dedicated to solving real-life problems with innovative technological solutions. I love tackling business challenges and transforming them with technology. Always eager to learn and grow, I believe in the power of technology to enhance any idea’s potential. As a computer engineer, my goal is to create, innovate, and implement solutions that not only solve current problems but also pave the way for a more efficient and advanced future. I'm committed to using my skills to turn complex challenges into opportunities for growth and improvement.
 
-- 🌱 <b>I am currently learning by actively practicing problem-solving exercises and applying those skills to solve real-world challenges I encounter in development projects.
+- 🌱 <b>I am currently learning by actively practicing problem-solving exercises and applying those skills to solve real-world &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; challenges I encounter in development projects.
 - 📫 How to reach me dipaang.bhadrecha@gmail.com </b>
 
 ## Technical Skills

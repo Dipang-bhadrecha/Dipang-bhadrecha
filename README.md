@@ -12,7 +12,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 - 📫 How to reach me dipaang.bhadrecha@gmail.com
 
 ## Technical Skills
-<! --
+<!--
 <b>frontend Skills</b> </br> 
 <img src="https://skillicons.dev/icons?i=html,css,react,js" alt="Frontend Skills" /> </br>
 

@@ -13,8 +13,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 
 ## Technical Skills
 
-## Technical Skills
-
 <table align="center">
   <tr>
     <td align="center">
@@ -88,8 +86,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
     </td>
   </tr>
 </table>
-
-
 
 ## Projects
 

@@ -33,8 +33,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/><br/>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/><br/>Express
     </td>
@@ -44,8 +42,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/><br/>MongoDB
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br/>MySQL
     </td>
@@ -66,8 +62,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/><br/>Postman
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/><br/>VS Code
     </td>
@@ -77,8 +71,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/><br/>Linux
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/><br/>Figma
     </td>

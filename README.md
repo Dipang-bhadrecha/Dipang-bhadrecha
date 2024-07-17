@@ -17,14 +17,16 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 <img src="https://skillicons.dev/icons?i=js,html,css,react" alt="Frontend Skills" /> </br>
 
 <b>Backend Skills</b> </br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline="/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,nodejs,express,mongodb,mysql,redis" alt="Backend Skills" />
 
-<b>Web Development</b> </br>
-<b>Problem Solving approach skill set</b> </br>
-<b>Problem Solving rank and brief</b> </br>
-<b>version Controlling</b> </br>
-<b>Tools and Technology</b> </br>
-<b>All Skills Skills</b> </br>
+<b>Frameworks and Libraries</b> </br>
+<img src="https://skillicons.dev/icons?i=react,vue,flutter,nestjs" alt="Frameworks and Libraries" />
+
+<b>Tools and Platforms</b> </br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,vercel,linux" alt="Tools and Platforms" />
+
+<b>Database Skillss</b> </br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Database Skills" />
 
 <p align="center">
   <a href="https://skillicons.dev">

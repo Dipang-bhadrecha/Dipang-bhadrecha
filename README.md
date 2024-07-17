@@ -1,4 +1,3 @@
-## dipang
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/710783f2-82de-402d-b3fb-06aff8858001.faulty this time" alt="my banner" width="200" height="200">

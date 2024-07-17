@@ -34,6 +34,7 @@ I am a passionate developer with expertise in Software engineer. I love working 
 - [Business Kosh](https://businesskosh.in/): </br>
   <b>What is a Problem</b></br>
   Imagine you're a business owner looking to hire a team of 7 employees. To secure their interest, you offer a signing bonus, but there's a risk: these same employees might be collecting signing bonuses from multiple businesses across different locations, with no intention of actually joining any of them. This leaves you and other business owners at a financial loss.
+  
   <b>How to Solve</b></br>
   To combat this fraudulent practice, we propose a secure network system. When employees join your team, they submit their ID (such as Aadhaar card in India) through this platform. This triggers a notification to all other businesses that offered them a signing bonus, informing them of the employees' new employment status. These businesses can then contact you, the new employer, to reclaim their funds. If the employee group does not join anyone, the system ensures they must clear all outstanding signing bonuses before officially joining a new team.
   <b>Connect with govvernment and take a leverage</b></br>

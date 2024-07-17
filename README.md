@@ -51,8 +51,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/><br/>Git
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/><br/>GitHub
     </td>

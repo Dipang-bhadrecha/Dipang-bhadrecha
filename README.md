@@ -17,10 +17,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 <img src="https://skillicons.dev/icons?i=html,css,react,js" alt="Frontend Skills" /> </br>
 
 <b>Backend Skills</b> </br>
-<img src="https://skillicons.dev/icons?i=aws,nodejs,express,mongodb,mysql,redis" alt="Backend Skills" />
-
-<b>Frameworks and Libraries</b> </br>
-<img src="https://skillicons.dev/icons?i=react,vue,flutter,nestjs" alt="Frameworks and Libraries" />
+<img src="https://skillicons.dev/icons?i=aws,nodejs,express,nestjs,mongodb,mysql,redis" alt="Backend Skills" />
 
 <b>Tools and Platforms</b> </br>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,vercel,linux" alt="Tools and Platforms" />

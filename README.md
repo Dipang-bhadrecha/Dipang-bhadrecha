@@ -4,7 +4,7 @@
 
 ## About Me
 
-<h2 align="center">Software Engineer from India</h2> </br>
+<h3 align="center">Software Engineer from India</h3> </br>
 <b>To me, being an engineer means crafting something beautiful and impactful. I’m a passionate developer with expertise in Software Engineering, dedicated to solving real-life problems with innovative technological solutions. I love tackling business challenges and transforming them with technology. Always eager to learn and grow, I believe in the power of technology to enhance any idea’s potential. As a computer engineer, my goal is to create, innovate, and implement solutions that not only solve current problems but also pave the way for a more efficient and advanced future. I'm committed to using my skills to turn complex challenges into opportunities for growth and improvement.</b>
 
 - 🌱 I’m currently learning javascript fullstack

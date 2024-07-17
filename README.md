@@ -6,7 +6,7 @@
 
 ## About Me
 
-<h6 align="center">Software Engineer from India</h6> </br>
+<h3 align="center">Software Engineer from India</h3> </br>
 
 I am a passionate developer with expertise in Software engineer. I love working on problem-solving for business and how to transfer business problems with technology, and I'm always looking to learn and grow as a Software Engineer i always believe in one thing I am an Engineer and a true Engineer means crafting something beautiful and solving the real-life problem as a computer engineer I always looking for a problem and how to solve with technology how to transfer something into technology and see their potential after successfully blended with technology.
 

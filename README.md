@@ -33,15 +33,8 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 
 - [Business Kosh](https://businesskosh.in/): </br>
   <b>What is a Problem</b></br>
-  Imagine you're a business owner looking to hire a team of 7 employees. To secure their interest, you offer a signing bonus, but there's a risk: these same employees might be collecting signing bonuses from multiple businesses across different locations, with no intention of actually joining any of them. This leaves you and other business owners at a financial loss.
+  This project aims to combat fraudulent practices in team hiring. Business owners often offer signing bonuses to attract teams, but employees may collect these bonuses from multiple businesses without actually joining any. Our secure network platform tackles this issue. Upon joining a team, employees submit ID verification. The system then notifies all businesses who offered bonuses, allowing them to recoup funds if needed. Additionally, integrating with government ID verification systems strengthens legitimacy checks. This network fosters transparency, protecting both businesses and legitimate job seekers.
   
-  <b>How to Solve</b></br>
-  To combat this fraudulent practice, we propose a secure network system. When employees join your team, they submit their ID (such as Aadhaar card in India) through this platform. This triggers a notification to all other businesses that offered them a signing bonus, informing them of the employees' new employment status. These businesses can then contact you, the new employer, to reclaim their funds. If the employee group does not join anyone, the system ensures they must clear all outstanding signing bonuses before officially joining a new team.
-
-  <b>Connect with govvernment and take a leverage</b></br>
-  Additionally, leveraging an existing government system that tracks Aadhaar details of crew members going fishing, we can integrate this API into our network. This allows us to cross-reference and verify employee status with accurate and official government records, making it easier to identify and prevent fraudulent activities. This network fosters transparency and protects both business owners and legitimate job seekers from fraudulent activities.
-  
-
 ## Contact With Me:
 
 <p align="center">

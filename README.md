@@ -6,11 +6,10 @@
 
 <h3 align="center">Software Engineer from India</h3> </br>
 
+To me, being an engineer means crafting something beautiful and impactful. I’m a passionate developer with expertise in Software Engineering, dedicated to solving real-life problems with innovative technological solutions. I love tackling business challenges and transforming them with technology. Always eager to learn and grow, I believe in the power of technology to enhance any idea’s potential. As a computer engineer, my goal is to create, innovate, and implement solutions that not only solve current problems but also pave the way for a more efficient and advanced future. I'm committed to using my skills to turn complex challenges into opportunities for growth and improvement.
 
 - 🌱 I’m currently learning javascript fullstack
 - 📫 How to reach me dipaang.bhadrecha@gmail.com
-
-I am a passionate developer with expertise in Software engineer. I love working on problem-solving for business and how to transfer business problems with technology, and I'm always looking to learn and grow as a Software Engineer i always believe in one thing I am an Engineer and a true Engineer means crafting something beautiful and solving the real-life problem as a computer engineer I always looking for a problem and how to solve with technology how to transfer something into technology and see their potential after successfully blended with technology.
 
 ## Technical Skills
 

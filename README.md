@@ -74,7 +74,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 
 ## Projects
 
-- [Business Kosh](https://businesskosh.in/): </br>
+- [Business Kosh](https://businesskosh.in/): </br> Present
   This project aims to combat fraudulent practices in team hiring. Business owners often offer signing bonuses to attract teams, but employees may collect these bonuses from multiple businesses without actually joining any. Our secure network platform tackles this issue. Upon joining a team, employees submit ID verification. The system then notifies all businesses who offered bonuses, allowing them to recoup funds if needed. Additionally, integrating with government ID verification systems strengthens legitimacy checks. This network fosters transparency, protecting both businesses and legitimate job seekers.
   
 ## Contact With Me:

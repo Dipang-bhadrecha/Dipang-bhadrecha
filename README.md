@@ -11,7 +11,9 @@ I am a passionate developer with expertise in Software engineer. I love working 
 ## Technical Skills
 
 <b>frontend Skills</b> </br> 
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm"/> </br> </br> </br>
+<img src="https://skillicons.dev/icons?i=js,html,css,wasm"/> </br>
+
+
 <b>Backend Skills</b> </br>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"/>
 

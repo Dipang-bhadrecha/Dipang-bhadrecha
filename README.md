@@ -16,7 +16,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" /><br/>HTML
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/><br/>HTML
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/><br/>CSS

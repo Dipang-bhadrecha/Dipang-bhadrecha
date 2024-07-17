@@ -10,7 +10,7 @@ I am a passionate developer with expertise in Software engineer. I love working 
 
 ## Technical Skills
 
-I'm a Computer engineer \br
+I'm a Computer engineer </br>
 frontend Skills <img src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
 <p align="center">
   <a href="https://skillicons.dev">

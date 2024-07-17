@@ -12,6 +12,7 @@ I am a passionate developer with expertise in Software engineer. I love working 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </a>
 </p>
 

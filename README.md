@@ -10,7 +10,6 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 
 - 🌱 <b>I am currently learning by actively practicing problem-solving exercises and applying those skills to 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;solve real-world challenges I encounter in development projects.
-  </br>
 - 📫 How to reach me dipaang.bhadrecha@gmail.com </b>
 
 ## Technical Skills

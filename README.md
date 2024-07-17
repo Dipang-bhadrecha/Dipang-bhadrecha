@@ -11,7 +11,7 @@ I am a passionate developer with expertise in Software engineer. I love working 
 ## Technical Skills
 
 I'm a Computer engineer 
-[frontend Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[frontend Skills](https://skillicons.dev/icons?i=js,html,css,wasm
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,c,cpp,css,express,figma,html,js,linux,mongodb,mysql,nestjs,nodejs,postman,react,redis,ts,vscode,vercel" />

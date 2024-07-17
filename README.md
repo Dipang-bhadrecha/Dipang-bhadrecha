@@ -48,8 +48,17 @@ I am a passionate developer with expertise in Software engineer. I love working 
 - [Project 2](link-to-project): A brief description of what this project is about.
 - [Project 3](link-to-project): A brief description of what this project is about.
 
-## Connect with me:
+## Contact With Me:
 
-- [LinkedIn](link-to-your-linkedin)
-- [Twitter](link-to-your-twitter)
-- [Email](mailto:your-email@example.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-profile">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
+

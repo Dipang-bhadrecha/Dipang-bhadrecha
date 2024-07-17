@@ -13,69 +13,66 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 
 ## Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/><br/>HTML
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/><br/>CSS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/><br/>React
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/><br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/><br/>AWS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/><br/>Node.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/><br/>Express
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/><br/>NestJS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/><br/>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br/>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/><br/>Redis
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/><br/>Git
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/><br/>GitHub
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" height="40"/><br/>GitLab
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/><br/>Postman
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/><br/>VS Code
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/><br/>Vercel
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/><br/>Linux
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/><br/>Figma
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+  <div>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/><br/>HTML
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/><br/>CSS
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/><br/>React
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/><br/>JavaScript
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/><br/>AWS
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/><br/>Node.js
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/><br/>Express
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/><br/>NestJS
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/><br/>MongoDB
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br/>MySQL
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/><br/>Redis
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/><br/>Git
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/><br/>GitHub
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" height="40"/><br/>GitLab
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/><br/>Postman
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/><br/>VS Code
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/><br/>Vercel
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/><br/>Linux
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/><br/>Figma
+  </div>
+</div>
+
 
 ## Projects
 

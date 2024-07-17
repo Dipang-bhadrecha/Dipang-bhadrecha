@@ -34,7 +34,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/><br/>Node.js
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/><br/>Express
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/><br/>Express.js
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/><br/>NestJS

@@ -8,6 +8,9 @@
 
 <h3 align="center">Software Engineer from India</h3> </br>
 
+- 🌱 I’m currently learning Spring Boot and React
+- 📫 How to reach me dipaang.bhadrecha@gmail.com
+
 I am a passionate developer with expertise in Software engineer. I love working on problem-solving for business and how to transfer business problems with technology, and I'm always looking to learn and grow as a Software Engineer i always believe in one thing I am an Engineer and a true Engineer means crafting something beautiful and solving the real-life problem as a computer engineer I always looking for a problem and how to solve with technology how to transfer something into technology and see their potential after successfully blended with technology.
 
 ## Technical Skills
@@ -43,10 +46,6 @@ I am a passionate developer with expertise in Software engineer. I love working 
   <b>Connect with govvernment and take a leverage</b></br>
   Additionally, leveraging an existing government system that tracks Aadhaar details of crew members going fishing, we can integrate this API into our network. This allows us to cross-reference and verify employee status with accurate and official government records, making it easier to identify and prevent fraudulent activities. This network fosters transparency and protects both business owners and legitimate job seekers from fraudulent activities.
   
-  
-  
-- [Project 2](link-to-project): A brief description of what this project is about.
-- [Project 3](link-to-project): A brief description of what this project is about.
 
 ## Contact With Me:
 

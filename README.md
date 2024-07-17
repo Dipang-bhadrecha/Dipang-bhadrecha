@@ -1,10 +1,7 @@
 ## Dipang Bhadrecha
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/710783f2-82de-402d-b3fb-06aff8858001.faulty this time" alt="my banner" width="100" height="100">
-   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="my banner" width="1000" height="600">
-  
-  
+   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="my banner" width="1000" height="600"> 
 </p>
 
 ## About Me

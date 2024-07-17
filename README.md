@@ -50,7 +50,7 @@ I am a passionate developer with expertise in Software engineer. I love working 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dipang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipang_linkedin" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipang_leetcode" height="30" width="40" />
+  <a href="https://leetcode.com/u/user4485LY/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipang_leetcode" height="30" width="40" />
   </a>
 <a href="https://auth.geeksforgeeks.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipang_gfg" height="30" width="40" />
  </a>

@@ -13,64 +13,11 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 
 ## Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/><br/>HTML
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/><br/>CSS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/><br/>React
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/><br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/><br/>AWS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/><br/>Node.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/><br/>Express
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/><br/>NestJS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/><br/>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br/>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/><br/>Redis
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/><br/>Git
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/><br/>GitHub
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" height="40"/><br/>GitLab
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/><br/>Postman
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/><br/>VS Code
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/><br/>Linux
-    </td>
-  </tr>
-</table>
-
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Project Currently Working on
 

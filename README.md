@@ -12,9 +12,6 @@
 
 To me, being an engineer means crafting something beautiful and impactful. I’m a passionate developer with expertise in Software Engineering, dedicated to solving real-life problems with innovative technological solutions. I love tackling business challenges and transforming them with technology. Always eager to learn and grow, I believe in the power of technology to enhance any idea’s potential. As a computer engineer, my goal is to create, innovate, and implement solutions that not only solve current problems but also pave the way for a more efficient and advanced future. I'm committed to using my skills to turn complex challenges into opportunities for growth and improvement. 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ezSnippet](https://www.linkedin.com/in/dipang/)) 
-
 ## Technical Skills
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -44,11 +41,11 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 - <a href="https://vercel.com" target="_blank">See All Projects</a>
 
 
-  
+  ([https://linkedin.com/in/ezSnippet](https://www.linkedin.com/in/dipang/))
 ## Contact With Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dipang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipang_linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dipang/" target="blank"><img align="center" [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] alt="dipang_linkedin" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/user4485LYf/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipang_leetcode" height="30" width="40" />
   </a>
 <a href="https://auth.geeksforgeeks.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipang_gfg" height="30" width="40" />

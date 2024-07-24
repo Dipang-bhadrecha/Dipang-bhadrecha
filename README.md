@@ -43,8 +43,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 ## Contact With Me:
 
 <p align="center">
- <a href="[https://www.leetcode.com/abhi_nav2011](https://www.linkedin.com/in/dipang/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi_nav2011" height="30" width="40" /></a>
-  <a href="" target="_blank"> <img align="center"  alt="dipang_linkedin" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/dipang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dipang Bhadrecha" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/user4485LYf/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipang_leetcode" height="30" width="40" />
   </a>
 <a href="https://auth.geeksforgeeks.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipang_gfg" height="30" width="40" />

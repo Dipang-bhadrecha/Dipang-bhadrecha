@@ -49,7 +49,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 <a href="https://auth.geeksforgeeks.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipang_gfg" height="30" width="40" />
  </a>
   <a href="https://www.freecodecamp.org/dipang" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" alt="dipang_freecodecamp" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/free-code-camp.png" alt="dipang_freecodecamp" height="30" width="40" />
   </a>
 </p>
 

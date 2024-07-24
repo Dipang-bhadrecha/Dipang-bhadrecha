@@ -6,7 +6,7 @@
 
 <h3 align="center">Software Engineer from India</h3> 
 
-🔭 **I’m currently working on:**  <br>I'm currently learning by actively practicing problem-solving exercises and applying those skills to real-world challenges in development projects, while improving my problem-solving skills, mastering the SDLC cycle, and building a technical stack for the retail fisheries industry with the Seafresh project.<br><br>👯 **I’m looking to collaborate on:**  <br> Fullstack projects and product building over technical stacks. <br><br>🌱 **I'm currently learning AWS and DevOps functionality to improve my backend strength.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br> I love to observe life in motion.
+🔭 **I’m currently working on:**  <br> - I'm currently learning by actively practicing problem-solving exercises and applying those skills to real-world challenges in development projects, while improving my problem-solving skills, mastering the SDLC cycle, and building a technical stack for the retail fisheries industry with the Seafresh project.<br><br>👯 **I’m looking to collaborate on:**  <br> Fullstack projects and product building over technical stacks. <br><br>🌱 **I'm currently learning AWS and DevOps functionality to improve my backend strength.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br> I love to observe life in motion.
 
  📫 **How to reach me:** dipaang.bhadrecha@gmail.com
 

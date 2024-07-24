@@ -44,6 +44,7 @@ To me, being an engineer means crafting something beautiful and impactful. I’m
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dipang/" target="_blank"> <img align="center"  alt="dipang_linkedin" height="30" width="40" /></a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipang/)
   <a href="https://leetcode.com/u/user4485LYf/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipang_leetcode" height="30" width="40" />
   </a>
 <a href="https://auth.geeksforgeeks.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipang_gfg" height="30" width="40" />

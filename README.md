@@ -1,6 +1,6 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
-<a href="https://auth.geeksforgeeks.org/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="dipang_gfg" height="30" width="40" />
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario_gfg" />
 <h1 align="center">Hi 👋, I'm Dipang Bhadrecha</h1>
 
 ## About Me

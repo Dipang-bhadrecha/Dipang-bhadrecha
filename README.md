@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dipang Bhadrecha</h1>
 
 <p align="center">
+  <h3 align="center">Software Engineer from India</h3>
   <img src="https://profile-counter.glitch.me/Dipang-bhadrecha/count.svg" alt="Profile views" />
 </p>
 

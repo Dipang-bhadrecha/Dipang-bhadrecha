@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dipang Bhadrecha</h1>
 
 <p align="center">
-  <h3 align="center">Profile view</h3>
-  <img src="https://profile-counter.glitch.me/Dipang-bhadrecha/count.svg" alt="Profile views" />
+  **Profile views:** <img src="https://profile-counter.glitch.me/Dipang-bhadrecha/count.svg" alt="Profile views" />
 </p>
 
 ## About Me

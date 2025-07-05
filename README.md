@@ -2,6 +2,10 @@
 <img align="center" src="https://github.com/Dipang-bhadrecha/Dipang-bhadrecha/blob/main/assets/ThisPinIsAllAboutCoding.gif?raw=true" alt="coding_gif" />
 <h1 align="center">Hi 👋, I'm Dipang Bhadrecha</h1>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Dipang-bhadrecha/count.svg" alt="Profile views" />
+</p>
+
 ## About Me
 
 <h3 align="center">Software Engineer from India</h3> 
